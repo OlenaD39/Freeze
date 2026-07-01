@@ -1,0 +1,35 @@
+.container-info{
+    position: relative;
+    background-color: #eeebec;
+    height: 260px;
+    width: 100%;
+}
+.malina img{
+    width: 300px;
+    height: 208px;
+    float: right;
+    margin-top: 52px;
+}
+.NewProduct{
+    display: inline-block;
+}
+.NewProduct h3{
+    color: #cb3362;
+    font-family: 'Marga';
+    padding: 32px 0;
+    font-size: 32px;
+
+
+}
+.NewProduct h2{
+    color: #7a6666;
+    font-family: 'LatoB';
+    font-size: 20px;
+    margin-top: 52px;
+
+}
+.NewProduct p{
+    color: #7a6666;
+    font-family: 'LatoB';
+    font-size: 15px;
+}

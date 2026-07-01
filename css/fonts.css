@@ -27,3 +27,8 @@
     src: url(../fonts/Roboto-Regular.woff) format('woff'),
     url(../fonts/Roboto-Regular.woff2) format(woff2);
 }
+@font-face {
+    font-family: QuicksandB;
+    src: url(../fonts/Quicksand-Bold.woff) format('woff'),
+    url(../fonts/Quicksand-Bold.woff2) format(woff2);
+}
